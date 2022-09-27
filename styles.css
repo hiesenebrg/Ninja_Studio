@@ -1,0 +1,86 @@
+.bg-black{
+    /* background-color: rgb(1, 1, 57); */
+}
+.sec-first
+{
+    height: 68.5vh;
+}
+.header{
+    height: 10%;
+    width: 100%;
+    background-color: darkblue;
+    margin-bottom: 3%;
+    
+}
+
+.first{
+    height:30%;
+    width: 45%;
+    margin-right: 9%;
+    background-color: red;
+    margin-bottom: 3%;
+    display: inline-block;
+
+}
+.first-first{
+    width: 60%;
+    margin-right: 10%;
+    background-color:  rgb(49, 49, 214);
+}
+.first-second{
+    
+    width:30%;
+        margin-right: -10%;
+        background-color:  rgb(129, 129, 203);
+    }
+.first-second-heading{
+    color: aliceblue;
+    font-style:normal;
+    font-weight: thick;
+}
+.viewall{
+    font-size: 10px;
+    margin-left: 30%;
+    color:whitesmoke;
+}
+.first-second-first{
+    position: fixed;
+    height: 33.3%;
+background-color: aliceblue;
+
+}
+.first-second-second{
+    /* display: inline; */
+    height: 40%;
+    
+background-color: blue;
+}
+.first-second-third{
+    height: 30%;
+background-color: red;
+}
+
+.second{
+    height:45%;
+    width: 45%;
+    display: inline-block;
+    background-color: black;
+}
+.second-first{
+    width: 60%;
+    margin-right: 10%;
+   
+
+    }
+.second-second{
+    width:30%;
+        margin-right: -10%;
+        background-color:  rgb(56, 56, 146);
+        
+    }
+    
+.footer{
+    height:8%;
+    width: 100%;
+    background-color: green;
+}
